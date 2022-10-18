@@ -217,7 +217,7 @@
   margin: 36px;
   padding: 20px;
   border-radius: 30px;
-  background-image: url(img/tech.jpg);
+  background-image: url("img/tech.jpg");
   background-size: cover;
   background-position: center;
   /* font-family: varela; */
@@ -242,7 +242,7 @@
   margin: 36px;
   border-radius: 30px;
   padding: 20px;
-  background-image: url(img/bmw.png);
+  background-image: url("img/bmw.png");
   background-size: cover;
   background-position: center;
   /* font-family: varela; */
@@ -266,7 +266,7 @@
   margin: 36px;
   border-radius: 30px;
   padding: 20px;
-  background-image: url(img/youtube\ unbox.jpeg);
+  background-image: url("img/youtube\ unbox.jpeg");
   background-size: cover;
   background-position: center;
   /* font-family: varela; */
